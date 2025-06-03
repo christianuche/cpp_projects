@@ -3,7 +3,7 @@
 This project is my ongoing effort in building a good professional software portfolio as I progress and improve my skills as a software developer. This program goal is to demonstrate an understanding of c++ syntax with the ability to compile and run a simple application. This program is a step to building software that can solve world problem. It is also going to help me in establishing my GitHub workflow for future, more difficult or complex projects.
 
 
-[Software Demo Video]( https://share.vidyard.com/watch/vaRVtAfqEcUfBZrJokJKLg )
+[Software Demo Video]( https://youtu.be/Ia9UBagVhfI )
 
 # Development Environment
 
